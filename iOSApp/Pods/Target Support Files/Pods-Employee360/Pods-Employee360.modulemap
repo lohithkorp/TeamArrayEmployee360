@@ -1,0 +1,6 @@
+framework module Pods_Employee360 {
+  umbrella header "Pods-Employee360-umbrella.h"
+
+  export *
+  module * { export * }
+}
